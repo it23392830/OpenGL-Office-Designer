@@ -24,9 +24,6 @@ An academic computer graphics project demonstrating fundamental
 - **Mouse** : Look around  
 - **O** : Open / Close door  
 
-## 📸 Screenshots
-(Add screenshots here)
-
 ## 📌 Notes
 This project was developed as part of an undergraduate
 Graphical Visualization module.
